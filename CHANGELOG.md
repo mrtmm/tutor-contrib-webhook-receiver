@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+* [Testing] Set skip_missing_interpreters = true for tox, so that it runs with whatever Python is available.
+
 ## Version 3.4.0 (2026-01-23)
 
 * [Enhancement] Support Tutor 21 and Open edX Ulmo.
