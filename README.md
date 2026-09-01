@@ -32,7 +32,7 @@ If you are installing this plugin from a branch in this Git repository, you must
 Run the following command to install the plugin:
 
 ```shell
-pip install git+https://github.com/cleura/tutor-contrib-webhook-receiver@v3.4.0
+pip install git+https://github.com/cleura/tutor-contrib-webhook-receiver@v3.5.0
 ```
 
 Then, to enable this plugin, run:
